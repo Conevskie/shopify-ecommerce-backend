@@ -9,7 +9,7 @@ This project requires Java 17 and PostgreSQL 16.1.
 
 **Step 1:** Clone the project:
 
-`git clone https://github.com/criticalH1T/shopify-ecommerce-backend`
+`git clone https://github.com/Conevskie/shopify-ecommerce-backend.git`
 
 **Step 2:** Navigate to the demo directory to find the `ecommerce_db.sql` file:
 
